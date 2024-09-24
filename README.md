@@ -6,3 +6,7 @@ nim : 10222100
 nama : Silva
 kelas : If v c
 nim : 10222117
+
+nama : Rizki
+kelas : if v c
+nim : 10222104
