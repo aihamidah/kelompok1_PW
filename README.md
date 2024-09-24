@@ -19,3 +19,6 @@ nama : adzril
 kelas : if v c
 nim : 10222093
 
+nama : shofi
+kelas : if v c
+nim : 10222145
