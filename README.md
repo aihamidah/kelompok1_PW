@@ -1,4 +1,4 @@
 # kelompok1_PW
-ai hamidah
-If V C
-10222100
+nama: ai hamidah
+Kelas :If V C
+nim : 10222100
